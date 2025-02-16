@@ -1,0 +1,5 @@
+BASE_URL = "https://qa-internship.avito.com"
+CREATE_ITEM_PATH = "/api/1/item"
+GET_ITEM_PATH = "/api/1/item/"
+GET_SELLER_ITEMS_PATH = "/api/1/{seller_id}/item"
+GET_ITEM_STATS_PATH = "/api/1/statistic/"
